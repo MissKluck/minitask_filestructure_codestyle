@@ -5,4 +5,9 @@ public class Generic<T1, T2>
     public int PokedexNumber { get; set; }
     public string PokemonName { get; set; }
 
+    public override string ToString()
+    {
+        return $"Your pokemon is {PokemonName} from generation {Generation}. It is a {Type} type pokemon, and it's Pokedex Number is {PokedexNumber}.";
+    }
+
 }
