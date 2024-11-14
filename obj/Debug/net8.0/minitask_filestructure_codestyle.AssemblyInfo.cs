@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minitask_filestructure_codestyle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14bb6386fc182e7714b4913f9f3638e73da26c60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95592e1061538acca342f2f4a3714556b8c26ff5")]
 [assembly: System.Reflection.AssemblyProductAttribute("minitask_filestructure_codestyle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minitask_filestructure_codestyle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

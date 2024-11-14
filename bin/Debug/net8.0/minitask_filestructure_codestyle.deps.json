@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "minitask_filestructure_codestyle/1.0.0": {
+        "runtime": {
+          "minitask_filestructure_codestyle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "minitask_filestructure_codestyle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

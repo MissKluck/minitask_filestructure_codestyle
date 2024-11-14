@@ -1,0 +1,15 @@
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/bin/Debug/net8.0/minitask_filestructure_codestyle
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/bin/Debug/net8.0/minitask_filestructure_codestyle.deps.json
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/bin/Debug/net8.0/minitask_filestructure_codestyle.runtimeconfig.json
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/bin/Debug/net8.0/minitask_filestructure_codestyle.dll
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/bin/Debug/net8.0/minitask_filestructure_codestyle.pdb
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/minitask_filestructure_codestyle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/minitask_filestructure_codestyle.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/minitask_filestructure_codestyle.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/minitask_filestructure_codestyle.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/minitask_filestructure_codestyle.sourcelink.json
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/minitask_filestructure_codestyle.dll
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/refint/minitask_filestructure_codestyle.dll
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/minitask_filestructure_codestyle.pdb
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/minitask_filestructure_codestyle.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/minitask_filestructure_codestyle/obj/Debug/net8.0/ref/minitask_filestructure_codestyle.dll
